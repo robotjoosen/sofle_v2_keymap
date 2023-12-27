@@ -11,33 +11,19 @@ What do all these layers do?
 
 ### Layer 0: Base layer
 
-![Layer 0](https://i.imgur.com/uk6ckvfh.png)
+![Layer 0](docs/layer_0.png)
 
-This is where your basic letters live.
+### Layer 1: Numpad and Adjustment
 
-The homing thumb fingers are used to access the different layers.
+![Layer 1](docs/layer_1.png)
 
-* The homing left thumb finger gives access to the Symbols (or lower) layer
-* The homing right thumb finger gives access to the Navigation (or raise) layer
-* Pressing both homing thumb fingers gives access to the Adjust layer
+### Layer 2: Dev Char and Navigation 
 
-### Layer 1: Lower
+![Layer 2](docs/layer_2.png)
 
-![Layer 1](https://i.imgur.com/6t0ErtEh.png)
+### Layer 3: Hotkeys
 
-The Lower layer gives access to the F keys on the top row row, number keys on the second row, and shifted number keys on the home row. The bottom role contains the remaining symbol keys and some shifted symbol keys.
-
-### Layer 2: Raise
-
-![Layer 2](https://i.imgur.com/URCBKfqh.png)
-
-The Raise layer gives access the arrow keys on the right hand, in addition to some other navigation keys. The left hand provides easy acces to Undo/Cut/Copy/Paste.
-
-### Layer 3: Adjust
-
-![Layer 3](https://i.imgur.com/b4tacMeh.png)
-
-The Adjust layer exposes RGB adjustment keys on the left hand, and media controls on the right hand.
+![Layer 3](docs/layer_3.png)
 
 Where is the keymap.c?
 ----------------------
