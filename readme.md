@@ -11,19 +11,19 @@ What do all these layers do?
 
 ### Layer 0: Base layer
 
-![Layer 0](docs/layer_0.png)
+![Layer 0](docs/layer0.png)
 
 ### Layer 1: Numpad and Adjustment
 
-![Layer 1](docs/layer_1.png)
+![Layer 1](docs/layer1.png)
 
 ### Layer 2: Dev Char and Navigation 
 
-![Layer 2](docs/layer_2.png)
+![Layer 2](docs/layer2.png)
 
 ### Layer 3: Hotkeys
 
-![Layer 3](docs/layer_3.png)
+![Layer 3](docs/layer3.png)
 
 Where is the keymap.c?
 ----------------------
@@ -61,7 +61,7 @@ To add this, you need to convert it to the `c` format. Do keep in mind that this
 First, from the root of your qmk repo, move to your keymap folder
 
 ```bash
-cd ./keyboards/splitkb/aurora/sofle_v2/keymaps/my_personal_keymap
+cd ./keyboards/splitkb/aurora/sofle_v2/keymaps/robotjoosen
 ```
 
 Next, convert your `keymap.json` to a `keymap.c`
